@@ -1,5 +1,4 @@
 # **Fruit Classification Prediction Model using Logistic Regression** 
-Project by: Rahul Oberoi and Vishal Singh
 
 This study presents an analysis of various machine 
 learning models for fruit classification. A dataset was provided 
